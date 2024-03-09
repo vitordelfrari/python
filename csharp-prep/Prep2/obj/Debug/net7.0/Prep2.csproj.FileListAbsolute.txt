@@ -1,0 +1,14 @@
+C:\Users\Del Frari\Desktop\Vitor.Del.Frari\BYU\Python\BYU\cse210-hw\csharp-prep\Prep2\bin\Debug\net7.0\Prep2.exe
+C:\Users\Del Frari\Desktop\Vitor.Del.Frari\BYU\Python\BYU\cse210-hw\csharp-prep\Prep2\bin\Debug\net7.0\Prep2.deps.json
+C:\Users\Del Frari\Desktop\Vitor.Del.Frari\BYU\Python\BYU\cse210-hw\csharp-prep\Prep2\bin\Debug\net7.0\Prep2.runtimeconfig.json
+C:\Users\Del Frari\Desktop\Vitor.Del.Frari\BYU\Python\BYU\cse210-hw\csharp-prep\Prep2\bin\Debug\net7.0\Prep2.dll
+C:\Users\Del Frari\Desktop\Vitor.Del.Frari\BYU\Python\BYU\cse210-hw\csharp-prep\Prep2\bin\Debug\net7.0\Prep2.pdb
+C:\Users\Del Frari\Desktop\Vitor.Del.Frari\BYU\Python\BYU\cse210-hw\csharp-prep\Prep2\obj\Debug\net7.0\Prep2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Del Frari\Desktop\Vitor.Del.Frari\BYU\Python\BYU\cse210-hw\csharp-prep\Prep2\obj\Debug\net7.0\Prep2.AssemblyInfoInputs.cache
+C:\Users\Del Frari\Desktop\Vitor.Del.Frari\BYU\Python\BYU\cse210-hw\csharp-prep\Prep2\obj\Debug\net7.0\Prep2.AssemblyInfo.cs
+C:\Users\Del Frari\Desktop\Vitor.Del.Frari\BYU\Python\BYU\cse210-hw\csharp-prep\Prep2\obj\Debug\net7.0\Prep2.csproj.CoreCompileInputs.cache
+C:\Users\Del Frari\Desktop\Vitor.Del.Frari\BYU\Python\BYU\cse210-hw\csharp-prep\Prep2\obj\Debug\net7.0\Prep2.dll
+C:\Users\Del Frari\Desktop\Vitor.Del.Frari\BYU\Python\BYU\cse210-hw\csharp-prep\Prep2\obj\Debug\net7.0\refint\Prep2.dll
+C:\Users\Del Frari\Desktop\Vitor.Del.Frari\BYU\Python\BYU\cse210-hw\csharp-prep\Prep2\obj\Debug\net7.0\Prep2.pdb
+C:\Users\Del Frari\Desktop\Vitor.Del.Frari\BYU\Python\BYU\cse210-hw\csharp-prep\Prep2\obj\Debug\net7.0\Prep2.genruntimeconfig.cache
+C:\Users\Del Frari\Desktop\Vitor.Del.Frari\BYU\Python\BYU\cse210-hw\csharp-prep\Prep2\obj\Debug\net7.0\ref\Prep2.dll
