@@ -16,7 +16,7 @@ Ezra:10:Old Testament
 Nehemiah:13:Old Testament
 Esther:10:Old Testament
 Job:42:Old Testament
-Psalms:150:Old Testament
+Psalms:150:Old Testament 
 Proverbs:31:Old Testament
 Ecclesiastes:12:Old Testament
 Song of Solomon:8:Old Testament
